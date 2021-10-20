@@ -1,0 +1,16 @@
+.panel-local {
+    text-align: center;
+    padding: 5em 0;
+    margin-top: 60px;
+}
+
+.panel-local h3 {
+    font-size: 30px;
+    font-family: 'Hind', sans-serif;
+    margin-bottom: 15px;
+}
+
+.panel-local .panel-local-map {
+    width: 940px;
+	margin:0 auto;
+}

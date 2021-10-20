@@ -1,0 +1,38 @@
+.panel-motorc h1 {
+    text-align: center;
+    font-family: 'Hind', sans-serif;
+    font-size: 50px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+
+.panel-motorc h2 {
+    text-align: center;
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+}
+
+.panel-motorc h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.panel-motorc li {
+    display: inline-block;
+    padding: 25px;
+    text-align: center;
+    font-family: 'Hind', sans-serif;
+    cursor: pointer;
+    opacity: 70%;
+}
+
+.panel-motorc li:hover {
+    opacity: 100%;
+    transition: 0.5s;
+}
+
+.panel-motorc li a {
+    text-decoration: none;
+    color: black;
+}

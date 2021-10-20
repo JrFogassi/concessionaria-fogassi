@@ -1,0 +1,45 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.header {
+    background: rgb(0, 0, 0);
+    padding: 20px 0;
+    font-family: 'Hind', sans-serif;
+}
+
+.header .box {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.box img {
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+nav {
+	position:absolute;
+	top:110px;
+	right:100px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform:uppercase;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:22px;
+	text-decoration:none;
+}
+
+nav a:hover {
+	color:#C78C19;
+	text-decoration:none;
+}

@@ -1,0 +1,35 @@
+form {
+	margin:40px 0;
+    font-family: 'Hind', sans-serif; 
+}
+
+form label, form legend {
+	display:block;
+	font-size:20px;
+	margin:0 0 10px;
+}
+
+.input-default {
+	display:block;
+	margin: 0 0 20px;
+	padding:10px 25px;
+	width:50%;
+}
+
+.checkbox {
+	margin:20px 0;
+}
+
+.send {
+	width: 40%;
+	padding: 15px 0;
+	background: black;
+	color: white;
+    font-family: 'Hind', sans-serif; 
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
